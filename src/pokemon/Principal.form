@@ -161,34 +161,14 @@
             <Component class="javax.swing.JTable" name="tblDatos">
               <Properties>
                 <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
-                  <Table columnCount="7" rowCount="3">
-                    <Column editable="true" title="Puntos de combate" type="java.lang.Object">
-                      <Data value="30"/>
-                      <Data value="82"/>
-                      <Data value="84"/>
-                    </Column>
-                    <Column editable="true" title="Nombre" type="java.lang.Object">
-                      <Data value="Pidgey"/>
-                      <Data value="Caterpie"/>
-                      <Data value="Metapod"/>
-                    </Column>
-                    <Column editable="true" title="Tipo" type="java.lang.Object">
-                      <Data value="Volador"/>
-                      <Data value="Bicho"/>
-                      <Data value="Bicho"/>
-                    </Column>
-                    <Column editable="true" title="Peso" type="java.lang.Object">
-                      <Data value="2.11"/>
-                      <Data value="2.23"/>
-                      <Data value="5.87"/>
-                    </Column>
-                    <Column editable="true" title="Altura" type="java.lang.Object">
-                      <Data value="0.32"/>
-                      <Data value="0.27"/>
-                      <Data value="0.65"/>
-                    </Column>
+                  <Table columnCount="7" rowCount="0">
+                    <Column editable="true" title="Nombre " type="java.lang.Object"/>
+                    <Column editable="true" title="Tipo" type="java.lang.Object"/>
+                    <Column editable="true" title="Peso" type="java.lang.Object"/>
+                    <Column editable="true" title="Altura" type="java.lang.Object"/>
                     <Column editable="true" title="Vida" type="java.lang.Object"/>
-                    <Column editable="true" title="Alias/Apodo" type="java.lang.Object"/>
+                    <Column editable="true" title="Puntos de combate" type="java.lang.Object"/>
+                    <Column editable="true" title="Apodo/Alias" type="java.lang.Object"/>
                   </Table>
                 </Property>
                 <Property name="toolTipText" type="java.lang.String" value=""/>

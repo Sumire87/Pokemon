@@ -90,12 +90,10 @@ public class Principal extends javax.swing.JFrame {
 
         tblDatos.setModel(new javax.swing.table.DefaultTableModel(
             new Object [][] {
-                {"30", "Pidgey", "Volador", "2.11", "0.32", null, null},
-                {"82", "Caterpie", "Bicho", "2.23", "0.27", null, null},
-                {"84", "Metapod", "Bicho", "5.87", "0.65", null, null}
+
             },
             new String [] {
-                "Puntos de combate", "Nombre", "Tipo", "Peso", "Altura", "Vida", "Alias/Apodo"
+                "Nombre ", "Tipo", "Peso", "Altura", "Vida", "Puntos de combate", "Apodo/Alias"
             }
         ));
         tblDatos.setToolTipText("");
