@@ -15,8 +15,7 @@ public class Pokemon {
      * @param args the command line arguments
      */
     public static Principal ventana = new Principal();
-    public static Formulario form = new Formulario();
-    
+        
     public static void main(String[] args) {
         
         ventana.setVisible(true);
